@@ -3,7 +3,7 @@
 
 #install
 
-Pkg.clone("git@github.com:hzgzh/NG.git")
+Pkg.clone("https://github.com/hzgzh/NG.git")
 
 #usage
 
