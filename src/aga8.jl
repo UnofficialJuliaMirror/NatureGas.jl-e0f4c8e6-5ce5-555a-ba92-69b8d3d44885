@@ -43,7 +43,7 @@ function ng_zfactor(p,T;
     Ar=0.)
     x=[CH4,N2,CO2,C2H6,C3H8,H2O,H2S,H2,CO,O2,iC4H10,nC4H10,iC5H12,nC5H12,nC6H14,nC7H16,nC8H18,nNonane,nDecane,He,Ar]
     x=x./sum(x)
-    sum(x)!=100. && error("all componnet sum should be 100")
+    #sum(x)!=100. && error("all componnet sum should be 100")
     N=21
     R=8.31451e-3
     #状态参数值
