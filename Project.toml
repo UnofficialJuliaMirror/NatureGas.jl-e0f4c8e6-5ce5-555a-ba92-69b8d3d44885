@@ -1,6 +1,6 @@
 name = "NG"
 uuid = "ec7b9270-082e-11e9-0bf8-9394575f2659"
-authors = ["hzgzh <hzgzh@sina.com>"]
+authors = ["hzgzh <hzgzh@hotmail.com>"]
 version = "0.2.1"
 
 [deps]
