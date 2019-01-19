@@ -1,7 +1,7 @@
 name = "NG"
 uuid = "ec7b9270-082e-11e9-0bf8-9394575f2659"
 authors = ["hzgzh <hzgzh@sina.com>"]
-version = "0.1.0"
+version = "0.2.1"
 
 [deps]
 Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
