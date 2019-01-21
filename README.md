@@ -3,7 +3,7 @@
 
 ## install
 
-Pkg.clone("https://github.com/hzgzh/NG.git")
+Pkg.add("https://github.com/hzgzh/NatureGas.git")
 
 ## usage
 
