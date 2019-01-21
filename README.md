@@ -1,4 +1,4 @@
-# NG
+# NG[![Build Status](https://travis-ci.org/hzgzh/NatureGas.jl.svg?branch=master)](https://travis-ci.org/hzgzh/Naturegas.jl)
 # Nature Gas Compress Factor Calculation
 
 ## install
