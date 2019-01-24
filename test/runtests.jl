@@ -1,4 +1,4 @@
-using NG
+using NatureGas
 using Test
 #=
 gas=[
