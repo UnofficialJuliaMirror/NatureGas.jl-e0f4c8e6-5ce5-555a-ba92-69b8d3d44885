@@ -1,4 +1,4 @@
-module NG
+module NatureGas
 include("heatvalue.jl")
 include("aga8.jl")
 
